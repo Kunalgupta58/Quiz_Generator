@@ -1,0 +1,5 @@
+{
+  "name": "AI Quiz Generator",
+  "description": "An application for faculty to upload PDF documents and automatically generate Multiple Choice and True/False questions using AI. The app provides a streamlined, no-code experience for creating educational quizzes.",
+  "requestFramePermissions": []
+}
